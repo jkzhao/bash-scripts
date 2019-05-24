@@ -1,0 +1,3 @@
+#ip port user password description
+172.16.7.151 22 ssh root 123456 node1
+172.16.7.153 22 ssh root 123456 node3
